@@ -1,4 +1,3 @@
-Intro-to-github
-===============
-
-对 Github 的简介
+* Learn Github
+* For Ndi
+* shared repo
